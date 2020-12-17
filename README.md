@@ -2,7 +2,9 @@
 😸 I am Youfy 😸
 
 <img align="right" src="https://i.imgur.com/skDLDS0.jpeg" width="100px" height="auto" alt="Kat-chan Img">
+
 <strong>Things I am doing</strong>
+
 > 👉🏻 Working on Many things at once :)\
  ☎️ All-in-one details @ my <a href="https://www.tumblr.com/blog/cpyoufy">Tumblr</a>\
  ✉️ My contact email @ cpyoufy@gmail.com\
