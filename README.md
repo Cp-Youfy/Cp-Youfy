@@ -15,7 +15,5 @@
 </a>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top_langs/?username=Cp-Youfy&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cp-Youfy&theme=dark" />
-
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cp-Youfy&theme=dark)
 
