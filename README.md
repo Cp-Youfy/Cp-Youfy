@@ -22,4 +22,4 @@
 "Coding every day keeps the brainrot away\
 or so they say"
 
-Kat-chan wishes you Happy Coding (and Less Debugging)! Nyaa nyaa~
+Kat-chan wishes you Happy Coding (and Less Debugging)! Nyaa nyaa~ (//>w<//)
