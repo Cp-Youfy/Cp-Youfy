@@ -15,5 +15,5 @@
 </a>
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cp-Youfy&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cp-Youfy&theme=dark)\
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cp-Youfy&theme=dark)
