@@ -1,16 +1,21 @@
-### Hi there 👋
+<em>Konnichiwa Minna-san~!</em>\
+😸 I am Youfy 😸\
 
-<!--
-**Cp-Youfy/Cp-Youfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<strong>Things I am doing</strong>
+> 👉🏻 Working on Many things at once :)\
+ ☎️ All-in-one details @ my <a href="https://www.tumblr.com/blog/cpyoufy">Tumblr</a>\
+ ✉️ My contact email @ cpyoufy@gmail.com\
+ 🔍 Forever changing hobbies haha\
+ 📚 Learning Markup Languages (HTML/CSS) at the moment
+ 
+ 
+<a href="https://pronouns.vercel.app" title="Pronouns">
+  <img src="https://pronouns.vercel.app/She/Her?gradient=azur%20lane" width="256" height="64" alt="My pronouns are She/Her">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top_langs/?username=Cp-Youfy&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cp-Youfy&theme=dark" />
+
+
