@@ -1,7 +1,7 @@
 <em>Konnichiwa Minna-san~!</em>\
 😸 I am Youfy 😸
 
-
+<img align="right" src="https://i.imgur.com/skDLDS0.jpeg" alt="Kat-chan Img">
 <strong>Things I am doing</strong>
 > 👉🏻 Working on Many things at once :)\
  ☎️ All-in-one details @ my <a href="https://www.tumblr.com/blog/cpyoufy">Tumblr</a>\
@@ -20,5 +20,4 @@
 "Coding every day keeps the brainrot away\
 or so they say"
 
-<img align="left" src="https://i.imgur.com/skDLDS0.jpeg" width="200px" alt="KAT-CHAN">\
 Kat-chan wishes you Happy Coding (and Less Debugging)! Nyaa nyaa~
