@@ -20,5 +20,5 @@
 "Coding every day keeps the brainrot away\
 or so they say"
 
-<img src="" alt="KAT-CHAN"> Kat-chan Wishes you Happy Coding (and Less Debugging!)
+<img src="https://i.imgur.com/skDLDS0.jpeg" alt="KAT-CHAN"> Kat-chan Wishes you Happy Coding (and Less Debugging!)
 
