@@ -1,5 +1,5 @@
 <em>Konnichiwa Minna-san~!</em>\
-😸 I am Youfy 😸\
+😸 I am Youfy 😸
 
 
 <strong>Things I am doing</strong>
